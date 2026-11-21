@@ -31,3 +31,20 @@ Scores 0–2 per criterion, judged in brief order (lexicographic, not averaged).
 
 300px downscale check: passed (name, obelisk, sun, dunes all instantly clear).
 File: 416,283 bytes, 1024×1024 PNG — inside the 1 MiB gate.
+
+## Improvement round (rank 342/610 → resubmit)
+
+The flat v1 poster read as generic at judging size. Three richer
+candidates (`candidates/improve_posters.py`), then one refinement
+(`candidates/refine2_posters.py`):
+
+| Candidate | 1 On-brief+name | 2 Want to go | 3 Distinct identity | 4 Type | 5 Colour/composition | Verdict |
+|---|---|---|---|---|---|---|
+| C10 golden v1 | 2 | 2 — warm sun, lantern path, travellers | 2 — mirror pool, lit door | 2 — serif display | 1 — mesas read as houses, clouds caterpillar-like | Refined |
+| C11 dusk | 2 | 1 — moody, less warmth | 2 — glowing path at dusk | 2 | 2 | Runner-up |
+| C12 dawn | 2 | 1 — washed out, low contrast | 1 — pale = generic | 2 | 1 | Out |
+| C13 golden v2 | 2 | 2 — sun + lit camp + lantern path = stay promise | 2 — glass shard spires echo the obelisk, mirror pool, lit doorway | 2 — letterspaced serif, diamond rules, poster frame | 2 — name → sun → obelisk → pool → path → camp | **WINNER** |
+
+Final bytes = `candidate-13-ondine-golden-v2.png` (803,394 bytes,
+1024×1024). 300px check (`check-300px-v2.png`): name, sun, obelisk,
+pool and path all instantly clear.
